@@ -25,7 +25,7 @@
 
 <div>
   <b>Playlist:</b><br>
-  <a href="https://open.spotify.com/playlist/1Apc3ax8PtQoILHL08jJ41?si=4527ea0e9d104d09">
+  <a href="https://open.spotify.com/playlist/1Apc3ax8PtQoILHL08jJ41?si=4527ea0e9d104d09" target="_blank">
     <img alt="Trollfalgar" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </div>
