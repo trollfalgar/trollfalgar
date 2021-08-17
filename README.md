@@ -1,5 +1,5 @@
 ### Hello, there!
-##### Whelcome, my friend!
+##### Welcome, my friend!
 
 <div>
   <a href="https://github.com/trollfalgar" style="display:flex;">
@@ -10,18 +10,31 @@
 
 ##
 
-<div style="display: inline">
-  <img align="center" alt="Trollfalgar-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Trollfalgar-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Trollfalgar-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Trollfalgar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Trollfalgar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Trollfalgar-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div>
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img alt="Trollfalgar" src="https://img.shields.io/badge/MariaDB-C0765A?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-  
-##
+
+<br>
+
+<div>
+  <b>Playlist:</b><br>
+  <a href="https://open.spotify.com/playlist/1Apc3ax8PtQoILHL08jJ41?si=4527ea0e9d104d09">
+    <img alt="Trollfalgar" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+</div>
+
+ <br>
  
 <div> 
+  <b>Contact me:</b><br>
   <a href="https://instagram.com/trollfalgar" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -29,11 +42,13 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a> 
   <a href = "mailto:trollfalgar@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/tiago-the-oliveira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
- 
+  
+ <br>
+  
   ![Snake animation](https://github.com/trollfalgar/trollfalgar/blob/output/github-contribution-grid-snake.svg)
 </div>
