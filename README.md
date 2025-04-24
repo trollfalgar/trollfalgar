@@ -2,15 +2,6 @@
 ##### Welcome, my friend!
 
 <div>
-  <a href="https://github.com/trollfalgar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trollfalgar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trollfalgar&layout=compact&langs_count=10&theme=tokyonight"/>
-  </a>
-</div>
-
-##
-
-<div>
   <img alt="Trollfalgar-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="Trollfalgar-Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img alt="Trollfalgar-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
